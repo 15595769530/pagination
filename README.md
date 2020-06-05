@@ -4,9 +4,8 @@
 
 ## 页面效果
 
-![image-20200605120655162](C:\Users\evan\AppData\Roaming\Typora\typora-user-images\image-20200605120655162.png)
 
-![image-20200605120711075](C:\Users\evan\AppData\Roaming\Typora\typora-user-images\image-20200605120711075.png)
+
 
 ### 使用示例
 
