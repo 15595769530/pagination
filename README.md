@@ -4,8 +4,9 @@
 
 ## 页面效果
 
+![avatar](https://github.com/15595769530/pagination/blob/master/image-20200605120655162.png)
 
-
+![avatar](https://github.com/15595769530/pagination/blob/master/image-20200605120711075.png)
 
 ### 使用示例
 
